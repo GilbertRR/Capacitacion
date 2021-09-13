@@ -79,7 +79,6 @@ printf("El valor de la division entre vectores es: %f\r\n", divis1);
 printf("Ingrese un valor entero para la variable a \n");
 scanf("%i", &a);
 printf("\n");
-printf("Hola a todos");
 printf("La direccion de memoria de la variable a es %p \n", &a);
 pa=&a;
 printf("La direccion de memoria del puntero pa es:%p\nEl valor del puntero pa es: %i \n", pa, *pa);
